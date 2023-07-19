@@ -1,13 +1,10 @@
 .nav {
     background-color: rgba(37, 36, 36, 0.8);
     position: fixed;
-    top: 0;
-    left: 0;
     width: 100%;
-    z-index: 1;
+    height: 12%;
     display: flex; 
     align-items: center; 
-    margin-bottom: 10px;
     transition: 1.8s ease;
     border-bottom: solid 1px white;
 }
@@ -26,6 +23,7 @@
     transition: 1.5s ease;
     box-shadow: 4px 4px 5px 0px rgba(0,0,0,0.76);
     margin-right: 4%;
+    margin-left: 100px;
 }
 
 .botones:hover{

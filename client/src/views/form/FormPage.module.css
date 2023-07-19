@@ -1,3 +1,39 @@
 .form {
     padding-top: 100px;
 }
+
+.propertyValue {
+    padding-top: 40px;
+}
+
+.submit {
+    background-color: rgb(226, 217, 217);
+    color:black;
+    font-size: 14px;
+    border: solid 1px black;
+    cursor: pointer;
+    border-radius: 6px;
+    transition: 1.5s ease;
+    box-shadow: 4px 4px 5px 0px rgba(0,0,0,0.76);
+    margin-right: 4%;
+    margin-left: 100px;
+    margin-top: 40px;
+}
+
+.input {
+    background-color: rgb(226, 217, 217);
+    border: solid 1px black;
+    border-radius: 0.5em;
+    box-shadow: 4px 4px 5px 0px rgba(0,0,0,0.76);
+    transition: 1.5s ease;
+}
+
+.input:hover {
+    box-shadow: 6px 6px 5px 0px rgba(0,0,0,0.76);
+    background-color: rgb(200, 190, 190);
+}
+
+.errors {
+    color: red;
+    margin-left: 30px;
+}

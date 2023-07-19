@@ -1,12 +1,9 @@
 import styles from './Cards.module.css'
 import Card from '../card/Card'
-import { useDispatch, useSelector } from 'react-redux'
+import { useDispatch } from 'react-redux'
 import { filterByDiets, filterByOrigin, orderRecipes, healthRecipes } from '../../redux/actions'
 
-const Cards = () => {
-
-    const recipes = useSelector(state => state.recipes);
-    const diets = useSelector(state => state.diets);
+const Cards = ({ recipes, diets }) => {
 
     const dispatch = useDispatch();
 
@@ -39,25 +36,25 @@ const Cards = () => {
     }
 
     return (
-        <div className={styles.botones}>
+        <div>
             <div>
-                <select onChange={handleDietsFilter}>
+                <select onChange={handleDietsFilter} className={styles.botones}>
                     <option value="">All Diets</option>
                     {diets.map((diet) => (
                         <option key={diet.id} value={diet.id}>{diet.name}</option>
                     ))}
                 </select>
-                <select onChange={handleOriginFilter}>
+                <select onChange={handleOriginFilter} className={styles.botones}>
                     <option value="">Origin</option>
                     <option value="true">Created</option>
                     <option value="false">API</option>
                 </select>
-                <select onChange={handlealphabeticalOrder}>
+                <select onChange={handlealphabeticalOrder} className={styles.botones}>
                     <option value="">Order</option>
                     <option value="A">Ascendente</option>
                     <option value="D">Descendente</option>
                 </select>
-                <select onChange={handlescoreOrder}>
+                <select onChange={handlescoreOrder} className={styles.botones}>
                     <option value="">Score</option>
                     <option value="-+">Menor a Mayor</option>
                     <option value="+-">Mayor a Menor</option>

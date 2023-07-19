@@ -80,18 +80,17 @@ const rootReducer = (state = initialState, action) => {
 
         case HEALTH_RECIPES:
             let scoreRecipes = [...state.filteredRecipes];
-      if (action.payload === "-+") {
-        scoreRecipes.sort((a, b) => a.healthScore - b.healthScore);
-      } else if (action.payload === "+-") {
-        scoreRecipes.sort((a, b) => b.healthScore - a.healthScore);
-      } else if (action.payload === "") {
-        scoreRecipes = [...state.filteredRecipes];
-      }
-      return {
-        ...state,
-        recipes: scoreRecipes,
-      };
-            
+            if (action.payload === "-+") {
+                scoreRecipes.sort((a, b) => a.healthScore - b.healthScore);
+            } else if (action.payload === "+-") {
+                scoreRecipes.sort((a, b) => b.healthScore - a.healthScore);
+            } else if (action.payload === "") {
+                scoreRecipes = [...state.filteredRecipes];
+            }
+            return {
+                ...state,
+                recipes: scoreRecipes,
+            };
             
         default: 
             return { 

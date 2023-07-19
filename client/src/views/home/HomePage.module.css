@@ -1,11 +1,5 @@
-.divStyle {
-    display: grid;
-    grid-template-columns: repeat(3, 1fr);
-    grid-gap: 1%;
-}
-
-.botones{
-    margin-top: 130px;
+.button {
+    margin-top: 120px;
     background-color: rgb(226, 217, 217);
     color:black;
     font-size: 14px;
@@ -16,4 +10,5 @@
     box-shadow: 4px 4px 5px 0px rgba(0,0,0,0.76);
     margin-right: 4%;
     margin-left: 15px;
+    margin-bottom: 50px;
 }

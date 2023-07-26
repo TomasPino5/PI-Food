@@ -1,5 +1,7 @@
 # **FOOD** | Proyecto Individual
 
+<img src="https://www.shutterstock.com/image-vector/vector-illustration-professional-chef-sauteing-260nw-24088069.jpg" alt="food" width="220vw" />
+
 ## **📌 OBJETIVOS**
 
 -  Construir una Single Page Application utlizando las tecnologías: **React**, **Redux**, **Node**, **Express** y **Sequelize**.

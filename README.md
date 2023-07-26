@@ -4,12 +4,13 @@
 
 ## **📌 OBJETIVOS**
 
--  Construir una Single Page Application utlizando las tecnologías: **React**, **Redux**, **Node**, **Express** y **Sequelize**.
--  Poner en práctica recursos básicos de estilos y diseño (UX : UI).
--  Afirmar y conectar los conceptos aprendidos en la carrera.
--  Aprender mejores prácticas.
--  Aprender y practicar el workflow de GIT.
--  Utilizar y practicar testing.
+Crear una aplicacion web en donde se puedan encontrar diferentes tipos de recetas de cocina🍲, utilizando una API externa (https://spoonacular.com/food-api). Y a partir de ella, hacer entre otras cosas:
+
+✅ Buscar recetas
+
+✅ Filtrarlas por tipos de dietas / ordenarlas por puntaje y por orden alfabetico, de manera ascendente⤴️ y descendente⤵️
+
+✅ Crear nuevas recetas propias
 
 <br />
 

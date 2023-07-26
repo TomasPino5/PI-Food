@@ -1,6 +1,6 @@
 # **FOOD** | Proyecto Individual
 
-<img src=https://www.shutterstock.com/image-vector/vector-illustration-professional-chef-sauteing-260nw-24088069.jpg" alt="food" width="220vw" />
+<img src=https://assets.pinterest.com/ext/embed.html?id=745768019551628458" alt="food" width="220vw" />
 
 ## **📌 OBJETIVOS**
 

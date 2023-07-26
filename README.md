@@ -1,6 +1,6 @@
 # **FOOD** | Proyecto Individual
 
-<img src="[https://assets.pinterest.com/ext/embed.html?id=745768019551628458](https://www.conmishijos.com/assets/posts/6000/6107-dibujos-cocinero.jpg)" alt="food" width="220vw" />
+<img src="https://www.conmishijos.com/assets/posts/6000/6107-dibujos-cocinero.jpg" alt="food" width="220vw" />
 
 ## **📌 OBJETIVOS**
 

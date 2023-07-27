@@ -6,11 +6,11 @@
 
 Crear una aplicacion web en donde se puedan encontrar diferentes tipos de recetas de cocina🍲, utilizando una API externa (https://spoonacular.com/food-api). Y a partir de ella, hacer entre otras cosas:
 
-✅ Buscar recetas
+✅ Buscar recetas.
 
-✅ Filtrarlas por tipos de dietas / ordenarlas por puntaje y por orden alfabetico, de manera ascendente⤴️ y descendente⤵️
+✅ Filtrarlas por tipos de dietas / ordenarlas por puntaje y por orden alfabetico, de manera ascendente⤴️ y descendente⤵️.
 
-✅ Crear nuevas recetas propias
+✅ Crear nuevas recetas propias.
 
 <br />
 

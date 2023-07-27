@@ -16,7 +16,11 @@ Crear una aplicacion web en donde se puedan encontrar diferentes tipos de receta
 
 <p align="center">
    <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/800px-CSS3_logo.svg.png' alt='css' width="80px" height="80px"/>
-   <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png' alt='css' width="80px" height="80px"/>
+   <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png' alt='js' width="80px" height="80px"/>
+   <img src='https://everyday.codes/wp-content/uploads/2020/01/0-U2DmhXYumRyXH6X1.png' alt='redux' width="80px" height="80px"/>
+   <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1200px-Node.js_logo.svg.png' alt='node' width="80px" height="80px"/>
+   <img src='https://kinsta.com/wp-content/uploads/2022/04/express-1.png' alt='express' width="80px" height="80px"/>
+   <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png' alt='postgres' width="80px" height="80px"/>
 </p>
 
 ## **⚠️ IMPORTANTE**

@@ -44,14 +44,20 @@ Crear una aplicacion web en donde se puedan encontrar diferentes tipos de receta
 
 Utilice el administrador de paquetes npm para instalar. (recuerde utilizar este comando dentro de /client y dentro de /api).
 
-```npm install```
+```
+npm install
+```
 
 # **Ejecutar local ⚙️**
 
 **Front-end** dentro de ./client
 
-```npm start```
+```
+npm start
+```
 
 **Back-end** dentro de ./api
 
-```npm start```
+```
+npm start
+```

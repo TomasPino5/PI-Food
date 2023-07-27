@@ -12,19 +12,9 @@ Crear una aplicacion web en donde se puedan encontrar diferentes tipos de receta
 
 ✅ Crear nuevas recetas propias.
 
-<br />
+## **Tecnologias utilizadas💻**
 
----
-
-## **⏱ HORARIOS Y FECHAS**
-
-El proyecto individual tiene una duración máxima de tres semanas. Se inicia la primera semana con un Kick-Off, y se agendará una corrección personalizada la última semana.
-
-En el caso de completar todas las tareas antes de dicho lapso se podrá avisar a su instructor para coordinar una fecha de presentación del trabajo (DEMO).
-
-<br />
-
----
+<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/250px-CSS3_logo_and_wordmark.svg.png' />
 
 ## **⚠️ IMPORTANTE**
 

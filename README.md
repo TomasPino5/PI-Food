@@ -50,8 +50,8 @@ Utilice el administrador de paquetes npm para instalar. (recuerde utilizar este 
 
 **Front-end** dentro de ./client
 
-**`npm start`**
+**```npm start```**
 
 **Back-end** dentro de ./api
 
-**`npm start`**
+**```npm start```**

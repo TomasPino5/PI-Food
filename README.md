@@ -15,7 +15,7 @@ Crear una aplicacion web en donde se puedan encontrar diferentes tipos de receta
 ## **Tecnologias utilizadas💻**
 
 <p align="center">
-   <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/250px-CSS3_logo_and_wordmark.svg.png' alt='' width="220vw"/>
+   <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/250px-CSS3_logo_and_wordmark.svg.png' alt='css' width="220vw"/>
 </p>
 
 ## **⚠️ IMPORTANTE**

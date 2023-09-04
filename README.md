@@ -16,6 +16,11 @@ Crear una aplicacion web en donde se puedan encontrar diferentes tipos de receta
 
 <div align="center">
   <table border>
+    <thead>
+      <tr>
+        <th>Technologies</th>
+      </tr>
+    </thead>
     <tbody>
       <tr>
         <td>

@@ -1,4 +1,4 @@
-# **FOOD** | Proyecto Individual
+# **FOOD🌮**
 
 <img src="https://www.conmishijos.com/assets/posts/6000/6107-dibujos-cocinero.jpg" alt="food" width="220vw" />
 
